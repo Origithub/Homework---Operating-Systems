@@ -1,4 +1,4 @@
-# Homework-Operating-Systems
+# Operating-Systems
 
 Distributed Search:
   This program finds all the file names that include the search term within a given directory (and searches in its subdirectories as well) using user-argument amount of threads
